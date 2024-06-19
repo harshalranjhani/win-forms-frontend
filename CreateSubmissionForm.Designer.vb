@@ -106,7 +106,7 @@ Partial Class CreateSubmissionForm
         Me.ToggleStopwatchButton.BackColor = System.Drawing.Color.Orange
         Me.ToggleStopwatchButton.Location = New System.Drawing.Point(50, 210)
         Me.ToggleStopwatchButton.Name = "ToggleStopwatchButton"
-        Me.ToggleStopwatchButton.Size = New System.Drawing.Size(150, 30)
+        Me.ToggleStopwatchButton.Size = New System.Drawing.Size(240, 30)
         Me.ToggleStopwatchButton.TabIndex = 8
         Me.ToggleStopwatchButton.Text = "TOGGLE STOPWATCH (CTRL + T)"
         Me.ToggleStopwatchButton.UseVisualStyleBackColor = False
@@ -124,7 +124,7 @@ Partial Class CreateSubmissionForm
         'StopwatchLabel
         '
         Me.StopwatchLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.StopwatchLabel.Location = New System.Drawing.Point(210, 210)
+        Me.StopwatchLabel.Location = New System.Drawing.Point(300, 210)
         Me.StopwatchLabel.Name = "StopwatchLabel"
         Me.StopwatchLabel.Size = New System.Drawing.Size(80, 30)
         Me.StopwatchLabel.TabIndex = 10
@@ -139,7 +139,7 @@ Partial Class CreateSubmissionForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(300, 320)
+        Me.ClientSize = New System.Drawing.Size(400, 320)
         Me.Controls.Add(Me.StopwatchLabel)
         Me.Controls.Add(Me.SubmitButton)
         Me.Controls.Add(Me.ToggleStopwatchButton)

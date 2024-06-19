@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\deleteconfirmationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:deleteconfirmationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\deleteconfirmationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:deleteconfirmationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\deleteconfirmationform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:deleteconfirmationform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\deleteconfirmationform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:deleteconfirmationform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\viewsubmissionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:viewsubmissionsform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -11,24 +39,12 @@
       "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:editsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\editsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:editsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\editsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:editsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -62,79 +78,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditSubmissionForm.vb",
-              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.vb",
-              "RelativeDocumentMoniker": "EditSubmissionForm.vb",
-              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.vb",
-              "RelativeToolTip": "EditSubmissionForm.vb",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-19T09:26:54.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EditSubmissionForm.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.Designer.vb",
-              "RelativeDocumentMoniker": "EditSubmissionForm.Designer.vb",
-              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.Designer.vb",
-              "RelativeToolTip": "EditSubmissionForm.Designer.vb",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAiwKIAAAAAAAAA",
+              "Title": "DeleteConfirmationForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\DeleteConfirmationForm.Designer.vb",
+              "RelativeDocumentMoniker": "DeleteConfirmationForm.Designer.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\DeleteConfirmationForm.Designer.vb",
+              "RelativeToolTip": "DeleteConfirmationForm.Designer.vb",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-19T09:26:35.032Z",
+              "WhenOpened": "2024-06-19T09:45:33.496Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EditSubmissionForm.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.vb",
-              "RelativeDocumentMoniker": "EditSubmissionForm.vb",
-              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.vb [Design]",
-              "RelativeToolTip": "EditSubmissionForm.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-19T09:26:24.401Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ViewSubmissionsForm.vb",
-              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.vb",
-              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
-              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.vb",
-              "RelativeToolTip": "ViewSubmissionsForm.vb",
-              "ViewState": "AQIAACUAAAAAAAAAAAAQwDQAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-19T09:01:30.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ViewSubmissionsForm.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.Designer.vb",
-              "RelativeDocumentMoniker": "ViewSubmissionsForm.Designer.vb",
-              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.Designer.vb",
-              "RelativeToolTip": "ViewSubmissionsForm.Designer.vb",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAiwL8AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-19T09:01:01.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DeleteConfirmationForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\DeleteConfirmationForm.vb",
+              "RelativeDocumentMoniker": "DeleteConfirmationForm.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\DeleteConfirmationForm.vb [Design]",
+              "RelativeToolTip": "DeleteConfirmationForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T09:45:23.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ViewSubmissionsForm.vb [Design]",
               "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.vb",
               "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
@@ -146,20 +119,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "CreateSubmissionForm.Designer.vb",
               "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.Designer.vb",
               "RelativeDocumentMoniker": "CreateSubmissionForm.Designer.vb",
               "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.Designer.vb",
               "RelativeToolTip": "CreateSubmissionForm.Designer.vb",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAiwKYAAAAtAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAiwI4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-19T08:11:46.545Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteConfirmationForm.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\DeleteConfirmationForm.vb",
+              "RelativeDocumentMoniker": "DeleteConfirmationForm.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\DeleteConfirmationForm.vb",
+              "RelativeToolTip": "DeleteConfirmationForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T09:45:46.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAiwG4AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T09:01:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteConfirmationForm.resx",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\DeleteConfirmationForm.resx",
+              "RelativeDocumentMoniker": "DeleteConfirmationForm.resx",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\DeleteConfirmationForm.resx",
+              "RelativeToolTip": "DeleteConfirmationForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-19T09:45:32.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditSubmissionForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.Designer.vb",
+              "RelativeDocumentMoniker": "EditSubmissionForm.Designer.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.Designer.vb",
+              "RelativeToolTip": "EditSubmissionForm.Designer.vb",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAiwKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T09:26:35.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.vb",
+              "RelativeDocumentMoniker": "EditSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.vb [Design]",
+              "RelativeToolTip": "EditSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T09:26:24.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ViewSubmissionsForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.Designer.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.Designer.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.Designer.vb",
+              "RelativeToolTip": "ViewSubmissionsForm.Designer.vb",
+              "ViewState": "AQIAALoAAAAAAAAAAAAiwM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T09:01:01.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.vb",
+              "RelativeDocumentMoniker": "EditSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\EditSubmissionForm.vb",
+              "RelativeToolTip": "EditSubmissionForm.vb",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T09:26:54.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -167,12 +231,11 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AQIAALEAAAAAAAAAAAAlwMUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-19T08:38:22.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T08:38:22.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "CreateSubmissionForm.vb [Design]",
               "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.vb",
               "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
@@ -184,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Application.Designer.vb",
               "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\My Project\\Application.Designer.vb",
               "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
@@ -196,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "MainFormComponent.vb",
               "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\MainFormComponent.vb",
               "RelativeDocumentMoniker": "MainFormComponent.vb",
@@ -208,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "CreateSubmissionForm.vb",
               "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.vb",
               "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
@@ -216,12 +279,11 @@
               "RelativeToolTip": "CreateSubmissionForm.vb",
               "ViewState": "AQIAAEMAAAAAAAAAAABRwEYAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-19T08:11:49.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T08:11:49.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "MainFormComponent.vb [Design]",
               "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\MainFormComponent.vb",
               "RelativeDocumentMoniker": "MainFormComponent.vb",

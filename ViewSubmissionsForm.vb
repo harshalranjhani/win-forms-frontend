@@ -33,6 +33,10 @@ Public Class ViewSubmissionsForm
         OpenEditSubmissionForm()
     End Sub
 
+    Private Sub DeleteButton_Click(sender As Object, e As EventArgs) Handles DeleteButton.Click
+        ConfirmDeleteSubmission()
+    End Sub
+
     Private Sub LoadPreviousSubmission()
         If currentIndex > 0 Then
             currentIndex -= 1
@@ -88,5 +92,30 @@ Public Class ViewSubmissionsForm
         editForm.ShowDialog()
         ' Reload the current submission to reflect any changes
         LoadSubmission(currentIndex)
+    End Sub
+
+    Private Sub ConfirmDeleteSubmission()
+        Dim confirmationForm As New DeleteConfirmationForm()
+        confirmationForm.ShowDialog()
+
+        If confirmationForm.ConfirmDelete Then
+            DeleteSubmission(currentIndex)
+        End If
+    End Sub
+
+    Private Async Sub DeleteSubmission(index As Integer)
+        ' Create a new instance of the HttpClient
+        Dim client As New HttpClient()
+
+        ' Send the DELETE request to delete the submission by index
+        Dim response As HttpResponseMessage = Await client.DeleteAsync($"https://winforms.harshalranjhani.in/delete-vercel/{index}")
+
+        ' Handle the response
+        If response.IsSuccessStatusCode Then
+            MessageBox.Show("Submission deleted successfully!")
+            LoadNextSubmission()
+        Else
+            MessageBox.Show("Error deleting submission.")
+        End If
     End Sub
 End Class

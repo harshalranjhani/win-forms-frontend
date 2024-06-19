@@ -35,6 +35,7 @@ Partial Class ViewSubmissionsForm
         Me.PreviousButton = New System.Windows.Forms.Button()
         Me.NextButton = New System.Windows.Forms.Button()
         Me.EditButton = New System.Windows.Forms.Button()
+        Me.DeleteButton = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'NameLabel
@@ -152,11 +153,22 @@ Partial Class ViewSubmissionsForm
         Me.EditButton.Text = "EDIT"
         Me.EditButton.UseVisualStyleBackColor = False
         '
+        'DeleteButton
+        '
+        Me.DeleteButton.BackColor = System.Drawing.Color.Red
+        Me.DeleteButton.Location = New System.Drawing.Point(440, 250)
+        Me.DeleteButton.Name = "DeleteButton"
+        Me.DeleteButton.Size = New System.Drawing.Size(120, 30)
+        Me.DeleteButton.TabIndex = 13
+        Me.DeleteButton.Text = "DELETE"
+        Me.DeleteButton.UseVisualStyleBackColor = False
+        '
         'ViewSubmissionsForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(450, 320)
+        Me.ClientSize = New System.Drawing.Size(600, 320)
+        Me.Controls.Add(Me.DeleteButton)
         Me.Controls.Add(Me.EditButton)
         Me.Controls.Add(Me.NextButton)
         Me.Controls.Add(Me.PreviousButton)
@@ -190,4 +202,5 @@ Partial Class ViewSubmissionsForm
     Friend WithEvents PreviousButton As Button
     Friend WithEvents NextButton As Button
     Friend WithEvents EditButton As Button
+    Friend WithEvents DeleteButton As Button
 End Class
