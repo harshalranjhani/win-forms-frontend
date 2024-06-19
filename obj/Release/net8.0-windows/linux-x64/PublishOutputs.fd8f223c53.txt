@@ -1,0 +1,6 @@
+C:\Users\varsh\source\repos\Slidely Form App\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Slidely Form App
+C:\Users\varsh\source\repos\Slidely Form App\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Slidely Form App.dll
+C:\Users\varsh\source\repos\Slidely Form App\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Slidely Form App.deps.json
+C:\Users\varsh\source\repos\Slidely Form App\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Slidely Form App.runtimeconfig.json
+C:\Users\varsh\source\repos\Slidely Form App\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Slidely Form App.pdb
+C:\Users\varsh\source\repos\Slidely Form App\obj\Release\net8.0-windows\linux-x64\PubTmp\Out\Newtonsoft.Json.dll

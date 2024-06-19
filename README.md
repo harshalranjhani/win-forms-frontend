@@ -22,3 +22,5 @@ Watch the video demo of the Slidely Forms App:
 You can download the Windows executable of the Slidely Forms App from the following link:
 
 [Download Slidely Forms App](https://winforms.harshalranjhani.in)
+
+This might not always work, so you can also download the source code and build the application yourself.

@@ -68,8 +68,7 @@ Public Class CreateSubmissionForm
 
         ' Send the POST request
         Dim content As New StringContent(json, Encoding.UTF8, "application/json")
-        ' Dim response As HttpResponseMessage = Await client.PostAsync("https://winforms.harshalranjhani.in/submit-vercel", content)
-        Dim response As HttpResponseMessage = Await client.PostAsync("http://localhost:8080/submit", content)
+        Dim response As HttpResponseMessage = Await client.PostAsync("https://winforms.harshalranjhani.in/submit-vercel", content)
 
         ' Handle the response
         If response.IsSuccessStatusCode Then
