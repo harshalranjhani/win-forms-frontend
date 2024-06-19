@@ -4,6 +4,9 @@
     <Compile Update="CreateSubmissionForm.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="EditSubmissionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="MainFormComponent.vb">
       <SubType>Form</SubType>
     </Compile>

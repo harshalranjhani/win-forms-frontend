@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
-Partial Class ViewSubmissionsForm
+Partial Class EditSubmissionForm
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -32,9 +32,7 @@ Partial Class ViewSubmissionsForm
         Me.PhoneTextBox = New System.Windows.Forms.TextBox()
         Me.GithubLinkTextBox = New System.Windows.Forms.TextBox()
         Me.StopwatchTimeTextBox = New System.Windows.Forms.TextBox()
-        Me.PreviousButton = New System.Windows.Forms.Button()
-        Me.NextButton = New System.Windows.Forms.Button()
-        Me.EditButton = New System.Windows.Forms.Button()
+        Me.SaveButton = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'NameLabel
@@ -86,7 +84,6 @@ Partial Class ViewSubmissionsForm
         '
         Me.NameTextBox.Location = New System.Drawing.Point(50, 50)
         Me.NameTextBox.Name = "NameTextBox"
-        Me.NameTextBox.ReadOnly = True
         Me.NameTextBox.Size = New System.Drawing.Size(200, 20)
         Me.NameTextBox.TabIndex = 5
         '
@@ -94,7 +91,6 @@ Partial Class ViewSubmissionsForm
         '
         Me.EmailTextBox.Location = New System.Drawing.Point(50, 90)
         Me.EmailTextBox.Name = "EmailTextBox"
-        Me.EmailTextBox.ReadOnly = True
         Me.EmailTextBox.Size = New System.Drawing.Size(200, 20)
         Me.EmailTextBox.TabIndex = 6
         '
@@ -102,7 +98,6 @@ Partial Class ViewSubmissionsForm
         '
         Me.PhoneTextBox.Location = New System.Drawing.Point(50, 130)
         Me.PhoneTextBox.Name = "PhoneTextBox"
-        Me.PhoneTextBox.ReadOnly = True
         Me.PhoneTextBox.Size = New System.Drawing.Size(200, 20)
         Me.PhoneTextBox.TabIndex = 7
         '
@@ -110,7 +105,6 @@ Partial Class ViewSubmissionsForm
         '
         Me.GithubLinkTextBox.Location = New System.Drawing.Point(50, 170)
         Me.GithubLinkTextBox.Name = "GithubLinkTextBox"
-        Me.GithubLinkTextBox.ReadOnly = True
         Me.GithubLinkTextBox.Size = New System.Drawing.Size(200, 20)
         Me.GithubLinkTextBox.TabIndex = 8
         '
@@ -118,48 +112,25 @@ Partial Class ViewSubmissionsForm
         '
         Me.StopwatchTimeTextBox.Location = New System.Drawing.Point(50, 210)
         Me.StopwatchTimeTextBox.Name = "StopwatchTimeTextBox"
-        Me.StopwatchTimeTextBox.ReadOnly = True
         Me.StopwatchTimeTextBox.Size = New System.Drawing.Size(200, 20)
         Me.StopwatchTimeTextBox.TabIndex = 9
         '
-        'PreviousButton
+        'SaveButton
         '
-        Me.PreviousButton.BackColor = System.Drawing.Color.Orange
-        Me.PreviousButton.Location = New System.Drawing.Point(50, 250)
-        Me.PreviousButton.Name = "PreviousButton"
-        Me.PreviousButton.Size = New System.Drawing.Size(120, 30)
-        Me.PreviousButton.TabIndex = 10
-        Me.PreviousButton.Text = "PREVIOUS (CTRL + P)"
-        Me.PreviousButton.UseVisualStyleBackColor = False
+        Me.SaveButton.BackColor = System.Drawing.Color.LightGreen
+        Me.SaveButton.Location = New System.Drawing.Point(50, 250)
+        Me.SaveButton.Name = "SaveButton"
+        Me.SaveButton.Size = New System.Drawing.Size(120, 30)
+        Me.SaveButton.TabIndex = 10
+        Me.SaveButton.Text = "SAVE"
+        Me.SaveButton.UseVisualStyleBackColor = False
         '
-        'NextButton
-        '
-        Me.NextButton.BackColor = System.Drawing.Color.DeepSkyBlue
-        Me.NextButton.Location = New System.Drawing.Point(180, 250)
-        Me.NextButton.Name = "NextButton"
-        Me.NextButton.Size = New System.Drawing.Size(120, 30)
-        Me.NextButton.TabIndex = 11
-        Me.NextButton.Text = "NEXT (CTRL + N)"
-        Me.NextButton.UseVisualStyleBackColor = False
-        '
-        'EditButton
-        '
-        Me.EditButton.BackColor = System.Drawing.Color.LightGreen
-        Me.EditButton.Location = New System.Drawing.Point(310, 250)
-        Me.EditButton.Name = "EditButton"
-        Me.EditButton.Size = New System.Drawing.Size(120, 30)
-        Me.EditButton.TabIndex = 12
-        Me.EditButton.Text = "EDIT"
-        Me.EditButton.UseVisualStyleBackColor = False
-        '
-        'ViewSubmissionsForm
+        'EditSubmissionForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(450, 320)
-        Me.Controls.Add(Me.EditButton)
-        Me.Controls.Add(Me.NextButton)
-        Me.Controls.Add(Me.PreviousButton)
+        Me.ClientSize = New System.Drawing.Size(300, 320)
+        Me.Controls.Add(Me.SaveButton)
         Me.Controls.Add(Me.StopwatchTimeTextBox)
         Me.Controls.Add(Me.GithubLinkTextBox)
         Me.Controls.Add(Me.PhoneTextBox)
@@ -170,8 +141,8 @@ Partial Class ViewSubmissionsForm
         Me.Controls.Add(Me.PhoneLabel)
         Me.Controls.Add(Me.EmailLabel)
         Me.Controls.Add(Me.NameLabel)
-        Me.Name = "ViewSubmissionsForm"
-        Me.Text = "John Doe, Slidely Task 2 - View Submissions"
+        Me.Name = "EditSubmissionForm"
+        Me.Text = "John Doe, Slidely Task 2 - Edit Submission"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -187,7 +158,5 @@ Partial Class ViewSubmissionsForm
     Friend WithEvents PhoneTextBox As TextBox
     Friend WithEvents GithubLinkTextBox As TextBox
     Friend WithEvents StopwatchTimeTextBox As TextBox
-    Friend WithEvents PreviousButton As Button
-    Friend WithEvents NextButton As Button
-    Friend WithEvents EditButton As Button
+    Friend WithEvents SaveButton As Button
 End Class

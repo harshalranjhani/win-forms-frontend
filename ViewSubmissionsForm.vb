@@ -29,6 +29,10 @@ Public Class ViewSubmissionsForm
         LoadNextSubmission()
     End Sub
 
+    Private Sub EditButton_Click(sender As Object, e As EventArgs) Handles EditButton.Click
+        OpenEditSubmissionForm()
+    End Sub
+
     Private Sub LoadPreviousSubmission()
         If currentIndex > 0 Then
             currentIndex -= 1
@@ -61,6 +65,9 @@ Public Class ViewSubmissionsForm
                 PhoneTextBox.Text = data("phone").Value(Of String)()
                 GithubLinkTextBox.Text = data("github_link").Value(Of String)()
                 StopwatchTimeTextBox.Text = data("stopwatch_time").Value(Of String)()
+
+                ' Pass the loaded data to the edit form
+                EditButton.Tag = data
             Else
                 MessageBox.Show(result("error").Value(Of String))
                 If index > 0 Then
@@ -73,5 +80,13 @@ Public Class ViewSubmissionsForm
                 currentIndex -= 1
             End If
         End If
+    End Sub
+
+    Private Sub OpenEditSubmissionForm()
+        Dim submissionData As JObject = CType(EditButton.Tag, JObject)
+        Dim editForm As New EditSubmissionForm(submissionData, currentIndex)
+        editForm.ShowDialog()
+        ' Reload the current submission to reflect any changes
+        LoadSubmission(currentIndex)
     End Sub
 End Class
