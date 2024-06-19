@@ -152,7 +152,7 @@ Partial Class CreateSubmissionForm
         Me.Controls.Add(Me.EmailLabel)
         Me.Controls.Add(Me.NameLabel)
         Me.Name = "CreateSubmissionForm"
-        Me.Text = "John Doe, Slidely Task 2 - Create Submission"
+        Me.Text = "Create a new Submission"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

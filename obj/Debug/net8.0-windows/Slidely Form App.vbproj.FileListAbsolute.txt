@@ -13,6 +13,7 @@ C:\Users\varsh\source\repos\Slidely Form App\obj\Debug\net8.0-windows\Slidely Fo
 C:\Users\varsh\source\repos\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.AssemblyInfoInputs.cache
 C:\Users\varsh\source\repos\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.AssemblyInfo.vb
 C:\Users\varsh\source\repos\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.vbproj.CoreCompileInputs.cache
+C:\Users\varsh\source\repos\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.sourcelink.json
 C:\Users\varsh\source\repos\Slidely Form App\obj\Debug\net8.0-windows\Slidely .49166A3F.Up2Date
 C:\Users\varsh\source\repos\Slidely Form App\obj\Debug\net8.0-windows\Slidely Form App.dll
 C:\Users\varsh\source\repos\Slidely Form App\obj\Debug\net8.0-windows\refint\Slidely Form App.dll
