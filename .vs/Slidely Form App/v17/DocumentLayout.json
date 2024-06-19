@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:createsubmissionform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\mainformcomponent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:mainformcomponent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\mainformcomponent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:mainformcomponent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|c:\\users\\varsh\\source\\repos\\slidely form app\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{683F9AFF-E25C-4E88-93EA-64D0DB2AB213}|Slidely Form App.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAlwPkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-19T08:38:22.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "CreateSubmissionForm.vb",
+              "ViewState": "AQIAADkAAAAAAAAAAAArwEYAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:11:49.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainFormComponent.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\MainFormComponent.vb",
+              "RelativeDocumentMoniker": "MainFormComponent.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\MainFormComponent.vb",
+              "RelativeToolTip": "MainFormComponent.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:07:11.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwCEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:06:30.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:08:04.619Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSubmissionForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.Designer.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.Designer.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\CreateSubmissionForm.Designer.vb",
+              "RelativeToolTip": "CreateSubmissionForm.Designer.vb",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAiwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:11:46.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:07:49.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainFormComponent.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\MainFormComponent.vb",
+              "RelativeDocumentMoniker": "MainFormComponent.vb",
+              "ToolTip": "C:\\Users\\varsh\\source\\repos\\Slidely Form App\\MainFormComponent.vb [Design]",
+              "RelativeToolTip": "MainFormComponent.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T08:06:59.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
