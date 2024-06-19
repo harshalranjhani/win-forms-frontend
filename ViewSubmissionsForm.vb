@@ -54,8 +54,8 @@ Public Class ViewSubmissionsForm
         Dim client As New HttpClient()
 
         ' Send the GET request to fetch the submission by index
-        Dim response As HttpResponseMessage = Await client.GetAsync($"https://winforms.harshalranjhani.in/read-vercel?index={index}")
-
+        ' Dim response As HttpResponseMessage = Await client.GetAsync($"https://winforms.harshalranjhani.in/read-vercel?index={index}")
+        Dim response As HttpResponseMessage = Await client.GetAsync($"http://localhost:8080/read?index={index}")
         ' Handle the response
         If response.IsSuccessStatusCode Then
             Dim jsonResponse As String = Await response.Content.ReadAsStringAsync()
@@ -108,8 +108,8 @@ Public Class ViewSubmissionsForm
         Dim client As New HttpClient()
 
         ' Send the DELETE request to delete the submission by index
-        Dim response As HttpResponseMessage = Await client.DeleteAsync($"https://winforms.harshalranjhani.in/delete-vercel/{index}")
-
+        ' Dim response As HttpResponseMessage = Await client.DeleteAsync($"https://winforms.harshalranjhani.in/delete-vercel/{index}")
+        Dim response As HttpResponseMessage = Await client.DeleteAsync($"http://localhost:8080/delete/{index}")
         ' Handle the response
         If response.IsSuccessStatusCode Then
             MessageBox.Show("Submission deleted successfully!")
