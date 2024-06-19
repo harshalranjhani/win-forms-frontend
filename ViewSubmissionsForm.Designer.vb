@@ -183,7 +183,7 @@ Partial Class ViewSubmissionsForm
         Me.Controls.Add(Me.EmailLabel)
         Me.Controls.Add(Me.NameLabel)
         Me.Name = "ViewSubmissionsForm"
-        Me.Text = "John Doe, Slidely Task 2 - View Submissions"
+        Me.Text = "View Submissions"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

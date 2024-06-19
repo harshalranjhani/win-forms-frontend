@@ -142,7 +142,7 @@ Partial Class EditSubmissionForm
         Me.Controls.Add(Me.EmailLabel)
         Me.Controls.Add(Me.NameLabel)
         Me.Name = "EditSubmissionForm"
-        Me.Text = "John Doe, Slidely Task 2 - Edit Submission"
+        Me.Text = "Edit Submission"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
